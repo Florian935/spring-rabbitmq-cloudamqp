@@ -1,9 +1,9 @@
 rabbitmq:
   config:
-    hostname: albatross.rmq.cloudamqp.com
-    password: YMwtr1XrP6H3JBCryMGlN-_ge-raXkTd
-    username: yfyxkhgq
-    virtualHost: yfyxkhgq
+    hostname: YOUR_HOSTNAME
+    password: YOUR_PASSWORD
+    username: YOUR_USERNAME
+    virtualHost: YOUR_VIRTUAL_HOST
     queueName: florian935.queue
     exchangeName: florian935.exchange
     routingKey: florian935.routingKey
