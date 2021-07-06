@@ -1,4 +1,4 @@
-package com.florian935.cloudampq.config;
+package com.florian935.cloudampqp.rabbitmqconsumer.config;
 
 import lombok.RequiredArgsConstructor;
 import lombok.experimental.FieldDefaults;

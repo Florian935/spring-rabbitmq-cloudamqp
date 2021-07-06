@@ -1,4 +1,4 @@
-package com.florian935.cloudampq.domain;
+package com.florian935.cloudampqp.rabbitmqconsumer.domain;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

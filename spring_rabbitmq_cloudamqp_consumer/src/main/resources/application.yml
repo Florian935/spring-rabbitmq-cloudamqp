@@ -1,0 +1,11 @@
+server:
+  port: 8081
+rabbitmq:
+  config:
+    hostname: albatross.rmq.cloudamqp.com
+    password: YMwtr1XrP6H3JBCryMGlN-_ge-raXkTd
+    username: yfyxkhgq
+    virtualHost: yfyxkhgq
+    queueName: florian935.queue
+    exchangeName: florian935.exchange
+    routingKey: florian935.routingKey
